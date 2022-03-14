@@ -1,2 +1,2 @@
-# HYOJUNManagementSystem
+# XManagementSystem
 course project for oop
